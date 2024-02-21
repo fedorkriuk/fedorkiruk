@@ -1,4 +1,4 @@
--  Hi, I am Fedor, IBM-cerified full-stack software engineer.
+-  Hi, I am Fedor, an IBM-cerified full-stack software engineer.
   
 -  I am interested in Data Science, Machine Learning, and Software + Hardware development practicies.
   
