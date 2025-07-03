@@ -84,9 +84,9 @@
 <br>
 
 <ul>
-<li> Worked with </li>
-<li>🔥 Working with <a href="https://www.tensorflow.org/"> TensorFlow </a></li>
-<li>🐦 Reach me on <a href="https://fedorkriuk.com/"> My Web </a></li>
+<li> Worked on data engineering and data science problems</li>
+<li> Was an ML researcher at the world's top-10 AI institution</li>
+<li> Passionate about applying AI across both software and hardware layers</li>
 </ul>
 
 <br>
