@@ -59,7 +59,7 @@
 <ul>
 <li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
 <li>🔥 Working with <a href="https://www.tensorflow.org/"> TensorFlow </a></li>
-<li>🐦 Reach me on <a href="https://fedorkriuk.com/"> My Web </a></li>
+<li>🐦 Take a look at <a href="https://fedorkriuk.com/"> My Web </a></li>
 </ul>
 <hr>
 
@@ -79,12 +79,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/fedorkriuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
- <a href="https://x.com/fedorkriuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adampithewan" height="30" width="40"></a>
+ <a href="https://x.com/fedorkriuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="adampithewan" height="30" width="40"></a>
 </p>
 <br>
 
 <ul>
-<li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
+<li> Worked with </li>
 <li>🔥 Working with <a href="https://www.tensorflow.org/"> TensorFlow </a></li>
 <li>🐦 Reach me on <a href="https://fedorkriuk.com/"> My Web </a></li>
 </ul>
