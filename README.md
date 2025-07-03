@@ -72,7 +72,7 @@
 <p>📫 How to reach me <strong><a href="mailto:fedor.kriuk@student.uts.edu.au">fedor.kriuk@student.uts.edu.au</a></strong></p>
 </li>
 <li>
-<p>⚡ Fun fact: healthy food, coffe, and music 🎵 are the reasons to live</p>
+<p>⚡ Fun fact: healthy food, coffee, and music 🎵 are the reasons to live</p>
 </li>
 </ul>
 <br>
