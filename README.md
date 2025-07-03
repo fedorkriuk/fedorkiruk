@@ -3,7 +3,7 @@
 <br>
   <p></p>
 <br>
-<p>I am studying Electronic Engineering and Computer Science. Currently working with drones. </p>
+<p>I am studying Electronic Engineering and Computer Science. Currently working with drones and autonomous droids. </p>
 
 
 
