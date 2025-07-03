@@ -3,7 +3,7 @@
 <br>
   <p></p>
 <br>
-<p>Colors and words are the runes of our Modern World. When wielded carefully, their power can help your creations shine through the noise!</p>
+<p>I am studying Electronic Engineering and Computer Science. Currently working on developing intelligent drone swarm systems for aerial defence. </p>
 
 
 
