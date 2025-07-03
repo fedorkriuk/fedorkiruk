@@ -181,7 +181,7 @@
 <table>
 <thead>
 <tr>
-<th>T</th><th>h</th><th>i</th><th>n</th><th>g</th><th>s</th><th></th><th>I</th><th></th><th>💚</th><th>:</th>
+<th>T</th><th>h</th><th>i</th><th>n</th><th>g</th><th>s</th><th></th><th>I</th><th></th><th>❤️</th><th>:</th>
 </tr>
 </thead>
 <tbody>
