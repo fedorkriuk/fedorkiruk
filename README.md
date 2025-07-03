@@ -58,7 +58,7 @@
 
 <ul>
 <li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
-<li>🔥 Working with the <a href="https://www.tensorflow.org/"> TensorFlow </a></li>
+<li>🔥 Working with <a href="https://www.tensorflow.org/"> TensorFlow </a></li>
 <li>🐦 Reach me on <a href="https://fedorkriuk.com/"> My Web </a></li>
 </ul>
 <hr>
