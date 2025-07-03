@@ -178,7 +178,51 @@
 
 
 
-<table><thead><tr><th>T</th><th>h</th><th>i</th><th>n</th><th>g</th><th>s</th><th></th><th>I</th><th></th><th>💚</th><th>:</th></tr></thead><tbody><tr><td></td><td></td><td></td><td><code>P</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>W</code></td></tr><tr><td></td><td><code>D</code></td><td><code>E</code></td><td><code>S</code></td><td><code>I</code></td><td><code>G</code></td><td><code>N</code></td><td></td><td></td><td></td><td><code>H</code></td></tr><tr><td><code>M</code></td><td></td><td></td><td><code>Y</code></td><td></td><td></td><td></td><td></td><td><code>C</code></td><td></td><td><code>I</code></td></tr><tr><td><code>I</code></td><td></td><td></td><td><code>C</code></td><td><code>O</code></td><td><code>D</code></td><td><code>E</code></td><td></td><td><code>O</code></td><td></td><td><code>M</code></td></tr><tr><td><code>N</code></td><td></td><td></td><td><code>H</code></td><td></td><td></td><td></td><td></td><td><code>L</code></td><td></td><td><code>S</code></td></tr><tr><td><code>I</code></td><td></td><td><code>S</code></td><td><code>O</code></td><td><code>C</code></td><td><code>I</code></td><td><code>O</code></td><td><code>L</code></td><td><code>O</code></td><td><code>G</code></td><td><code>Y</code></td></tr><tr><td><code>M</code></td><td></td><td></td><td><code>L</code></td><td></td><td></td><td></td><td></td><td><code>R</code></td><td></td><td></td></tr><tr><td><code>A</code></td><td></td><td></td><td><code>O</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><code>L</code></td><td><code>I</code></td><td><code>N</code></td><td><code>G</code></td><td><code>U</code></td><td><code>I</code></td><td><code>S</code></td><td><code>T</code></td><td><code>I</code></td><td><code>C</code></td><td></td></tr><tr><td><code>I</code></td><td></td><td></td><td><code>Y</code></td><td></td><td></td><td><code>E</code></td><td></td><td></td><td></td><td></td></tr><tr><td><code>S</code></td><td></td><td></td><td></td><td></td><td></td><td><code>M</code></td><td></td><td></td><td><a href="https://www.instagram.com/alexmartinfr/">📸</a></td><td></td></tr><tr><td><code>M</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table>
+<thead>
+<tr>
+<th>T</th><th>h</th><th>i</th><th>n</th><th>g</th><th>s</th><th></th><th>I</th><th></th><th>💚</th><th>:</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td><td></td><td></td><td><code>N</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>A</code></td>
+</tr>
+<tr>
+<td></td><td><code>S</code></td><td><code>W</code></td><td><code>I</code></td><td><code>M</code></td><td><code>M</code></td><td><code>I</code></td><td><code>N</code></td><td><code>G</code></td><td></td><td><code>N</code></td>
+</tr>
+<tr>
+<td><code>T</code></td><td></td><td></td><td><code>M</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>A</code></td>
+</tr>
+<tr>
+<td><code>E</code></td><td></td><td></td><td><code>M</code></td><td><code>A</code></td><td><code>C</code></td><td><code>H</code></td><td><code>I</code></td><td><code>N</code></td><td><code>E</code></td><td><code>L</code></td>
+</tr>
+<tr>
+<td><code>C</code></td><td></td><td></td><td><code>L</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>Y</code></td>
+</tr>
+<tr>
+<td><code>H</code></td><td></td><td><code>R</code></td><td><code>E</code></td><td><code>A</code></td><td><code>R</code></td><td><code>N</code></td><td><code>I</code></td><td><code>N</code></td><td><code>G</code></td><td><code>S</code></td>
+</tr>
+<tr>
+<td></td><td></td><td><code>U</code></td><td><code>A</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>I</code></td>
+</tr>
+<tr>
+<td></td><td></td><td><code>N</code></td><td><code>R</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>S</code></td>
+</tr>
+<tr>
+<td></td><td></td><td><code>N</code></td><td><code>N</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td></td><td></td><td><code>I</code></td><td><code>I</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td><code>D</code></td><td><code>A</code></td><td><code>T</code></td><td><code>A</code></td><td></td><td></td><td></td><td></td><td></td><td><a href="https://fedorkriuk.com">🏊</a></td><td></td>
+</tr>
+<tr>
+<td></td><td></td><td><code>G</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
 <li>🔥 Working with the <a href="https://tallstack.dev/"> TALLStack </a></li>
