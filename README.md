@@ -9,7 +9,7 @@
 <table>
 <thead>
 <tr>
-<th>T</th><th>h</th><th>i</th><th>n</th><th>g</th><th>s</th><th></th><th>I</th><th></th><th>💚</th><th>:</th>
+<th>T</th><th>h</th><th>i</th><th>n</th><th>g</th><th>s</th><th></th><th>I</th><th></th><th>❤️</th><th>:</th>
 </tr>
 </thead>
 <tbody>
@@ -58,18 +58,18 @@
 
 <ul>
 <li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
-<li>🔥 Working with the <a href="https://tallstack.dev/"> TALLStack </a></li>
-<li>🐦 Reach me on <a href="https://twitter.com/alexmartinfr"> Twitter </a></li>
+<li>🔥 Working with the <a href="https://www.tensorflow.org/"> TensorFlow </a></li>
+<li>🐦 Reach me on <a href="https://fedorkriuk.com/"> My Web </a></li>
 </ul>
 <hr>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"></p>
 <ul>
 <li>
-<p>🌱 I’m currently learning Web Development and other programming languages</p>
+<p>👾 I’m currently learning advanced data structures and algorithms</p>
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="mailto:adampithewan@gmail.com">adampithewan@gmail.com</a></strong></p>
+<p>📫 How to reach me <strong><a href="mailto:fedor.kriuk@student.uts.edu.au">fedor.kriuk@student.uts.edu.au</a></strong></p>
 </li>
 <li>
 <p>⚡ Fun fact :- Food and Music🎵 are the reasons to live.</p>
@@ -78,11 +78,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam pithen wala" height="30" width="40"></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._" height="30" width="40"></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adampithewan" height="30" width="40"></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adampithewan" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/fedorkriuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
+ <a href="https://x.com/fedorkriuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adampithewan" height="30" width="40"></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
