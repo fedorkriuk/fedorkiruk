@@ -195,22 +195,22 @@
 <td><code>T</code></td><td></td><td></td><td><code>M</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>A</code></td>
 </tr>
 <tr>
-<td><code>E</code></td><td></td><td></td><td><code>M</code></td><td><code>A</code></td><td><code>C</code></td><td><code>H</code></td><td><code>I</code></td><td><code>N</code></td><td><code>E</code></td><td><code>L</code></td>
+<td><code>E</code></td><td></td><td></td><td><code>L</code></td><td><code>E</code></td><td><code>A</code></td><td><code>R</code></td><td><code>N</code></td><td><code>I</code></td><td><code>N</code></td><td><code>G</code></td>
 </tr>
 <tr>
-<td><code>C</code></td><td></td><td></td><td><code>L</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>Y</code></td>
+<td><code>C</code></td><td></td><td></td><td><code>L</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>L</code></td>
 </tr>
 <tr>
-<td><code>H</code></td><td></td><td><code>R</code></td><td><code>E</code></td><td><code>A</code></td><td><code>R</code></td><td><code>N</code></td><td><code>I</code></td><td><code>N</code></td><td><code>G</code></td><td><code>S</code></td>
+<td><code>H</code></td><td></td><td><code>R</code></td><td><code>E</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>Y</code></td>
 </tr>
 <tr>
-<td></td><td></td><td><code>U</code></td><td><code>A</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>I</code></td>
+<td></td><td></td><td><code>U</code></td><td><code>A</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>S</code></td>
 </tr>
 <tr>
-<td></td><td></td><td><code>N</code></td><td><code>R</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>S</code></td>
+<td></td><td></td><td><code>N</code></td><td><code>R</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>I</code></td>
 </tr>
 <tr>
-<td></td><td></td><td><code>N</code></td><td><code>N</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td><code>N</code></td><td><code>N</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>S</code></td>
 </tr>
 <tr>
 <td></td><td></td><td><code>I</code></td><td><code>I</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
@@ -223,6 +223,7 @@
 </tr>
 </tbody>
 </table>
+
 <ul>
 <li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
 <li>🔥 Working with the <a href="https://tallstack.dev/"> TALLStack </a></li>
