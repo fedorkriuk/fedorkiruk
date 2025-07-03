@@ -57,7 +57,7 @@
 
 
 <ul>
-<li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
+<li>🛠 Contributing to <a href="https://github.com/fedorkriuk/the-hook-lab"> The Hook Lab </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
 <li>🔥 Working with <a href="https://www.tensorflow.org/"> TensorFlow </a></li>
 <li>🐦 Take a look at <a href="https://fedorkriuk.com/"> My Web </a></li>
 </ul>
@@ -72,7 +72,7 @@
 <p>📫 How to reach me <strong><a href="mailto:fedor.kriuk@student.uts.edu.au">fedor.kriuk@student.uts.edu.au</a></strong></p>
 </li>
 <li>
-<p>⚡ Fun fact: Food and Music 🎵 are the reasons to live</p>
+<p>⚡ Fun fact: healthy food, coffe, and music 🎵 are the reasons to live</p>
 </li>
 </ul>
 <br>
