@@ -90,14 +90,14 @@
 </ul>
 
 <br>
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="adam-pw" bg_color="#808080/"></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;repo=convoychat" alt="adam-pw"></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&amp;theme=dark&amp;background=0d1117&amp;date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
-<p><a href="https://github.com/Adam-pw">Adam-pw</a></p> 
+<p><a href="https://github.com/fedorkriuk">fedorkriuk</a></p> 
 
 <!---
 fedorkiruk/fedorkiruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
