@@ -84,8 +84,8 @@
 <br>
 
 <ul>
-<li> Worked on data engineering and data science problems</li>
-<li> Was an ML researcher at the world's top-10 AI institution</li>
+<li> Enjoy working on data engineering and data science problems</li>
+<li> ML researcher at the world's leading institutions</li>
 <li> Passionate about applying AI across both software and hardware layers</li>
 </ul>
 
