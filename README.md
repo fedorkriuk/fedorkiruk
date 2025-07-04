@@ -84,8 +84,8 @@
 <br>
 
 <ul>
-<li> Enjoy working on data engineering and data science problems</li>
-<li> ML researcher at the world's leading institutions</li>
+<li> Live between 3 countries </li>
+<li> ML researcher at the world's leading institution</li>
 <li> Passionate about applying AI across both software and hardware layers</li>
 </ul>
 
